@@ -1,0 +1,6 @@
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.0
+PyQt6-sip==13.6.0
+pynput==1.7.6
+pyperclip==1.8.2
+requests==2.31.0
